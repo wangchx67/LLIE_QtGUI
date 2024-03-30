@@ -2,9 +2,9 @@
 
 ## Demo
 
-![ui_1](.\figs\ui_1.png)
+![ui_1](https://github.com/wangchx67/LLIE_QtGUI/blob/main/figs/ui_1.png)
 
-![ui_2](.\figs\ui_2.png)
+![ui_2](https://github.com/wangchx67/LLIE_QtGUI/blob/main/figs/ui_2.png)
 
 ## Run
 
